@@ -1,3 +1,5 @@
+/*this is a payment interface*/
+
 # Prerequisite
  1. Provide the value for PAYTM_MERCHANT_KEY in /lib/config_paytm.php file. (The value for MERCHANT_KEY will be provided after the onboarding process is completed).
  
